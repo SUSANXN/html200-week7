@@ -13,7 +13,7 @@ nav a:active  { color: #331C12;}   /* active links    */
 #mainContent a {  text-decoration:underline; margin: 0; padding: .5em 1em 1em 2em;}
 #mainContent a:link { color:#2c2e21;   }
 #mainContent a:visited { color:#2c2e21;   }
-#mainContent a:hover { color:#A7C520;  } 
+git#mainContent a:hover { color:#A7C520;  } 
 #mainContent a:active { color:#2C2E21;   }
 /*override the padding for the links in the aside elements */
 #mainContent aside a{ padding:0;}
